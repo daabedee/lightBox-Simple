@@ -1,0 +1,14 @@
+How to use:
+
+The HTML code to initialise the plugin:
+
+<body>
+  <section class="container">
+    <img src="your image here" alt="" class="zoomImg">
+    <img src="your image here" alt="" class="zoomImg">
+    <img src="your image here" alt="" class="zoomImg">
+    <img src="your image here" alt="" class="zoomImg">
+    <img src="your image here" alt="" class="zoomImg">
+    <img src="your image here" alt="" class="zoomImg">
+  </section>
+</body>
